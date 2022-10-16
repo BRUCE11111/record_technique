@@ -56,3 +56,13 @@ After writing the mardkown files, type `hexo g` in the root directory to generat
 
 
 
+
+
+### errors during installation
+
+1. ERROR Deployer not found: git
+
+   In your blog root directory , entering `npm install hexo-deployer-git`.
+
+
+
